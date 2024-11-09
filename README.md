@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A aspiring Python Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/1vlBgKjXEz1jTtsuiH.webp" >
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/1vlBgKjXEz1jTtsuiH.webp" style={border-radius:20px} >
 
 
 
