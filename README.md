@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">A aspiring Python Developer from India</h3>
+<h3 align="center">A aspiring Python Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/1vlBgKjXEz1jTtsuiH.webp" style={border-radius:20px} >
 
 
@@ -30,32 +30,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
