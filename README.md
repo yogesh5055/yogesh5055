@@ -34,13 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh5055&" alt="yogesh5055" /></p>
 
 
- yogesh5055/Balram-1## 🟩 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh5055/yogesh5055/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogesh5055/yogesh5055/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yogesh5055/yogesh5055/output/github-contribution-grid-snake.svg" />
-</picture>
+ 
 
 
 
